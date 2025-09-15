@@ -2,9 +2,11 @@
 .dart_tool/
 .packages
 pubspec.lock
+.metadata
 
 # Flutter build outputs
 build/
+coverage/
 
 # IntelliJ/Android Studio
 .idea/
