@@ -63,5 +63,5 @@ Type into the chat input when connected as admin:
 :forcedisconnect <user>
 ```
 
-## Platforms in Source Control
-This repository intentionally includes platform directories `android/`, `ios/`, `windows/`, `linux/`, `macos/`, and `web/`. Build outputs and environment‑local files are excluded via `.gitignore`.
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
