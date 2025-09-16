@@ -1,5 +1,7 @@
 # marchat_flutter
 
+<img src="marchat_flutter.jpg" alt="marchat_flutter Screenshot" width="600">
+
 Flutter client for a real‑time chat application.
 
 ## Features
